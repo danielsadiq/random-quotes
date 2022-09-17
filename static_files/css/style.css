@@ -1,0 +1,47 @@
+body{
+    background-color: hsl(218, 23%, 16%);
+    font-family: 'Manrope';
+}
+.card{
+    background-color: hsl(217, 19%, 24%);
+    border-radius: 20px;
+    padding: 2%;
+    text-align: center;
+    color: hsl(193, 38%, 86%);
+    align-items: center;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15% 3%;
+}
+.main-txt{
+    font-size: 28px;
+}
+.round{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(150, 100%, 66%);
+    padding: 5%;
+    border-radius: 50%;
+    position: absolute;
+    top: 88%;
+
+}
+form{ height: 35px;}
+small{
+    color: hsl(150, 100%, 66%);
+}
+.mb-8{
+    margin-bottom: 19%;
+}
+.btnn{
+    width: 0%;
+    height: 0px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+.div{ max-width: 100%;}
